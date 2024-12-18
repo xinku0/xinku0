@@ -1,3 +1,2 @@
 git diff > some-changes.patch
-
 git apply /path/to/some-changes.patch
